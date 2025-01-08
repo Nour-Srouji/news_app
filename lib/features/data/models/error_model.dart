@@ -1,4 +1,4 @@
-import 'package:news_app/features/domain/entities/H....error.dart';
+import 'package:news_app/features/domain/entities/error.dart';
 
 class ErrorArticleModel extends ErrorArticle {
   ErrorArticleModel(
