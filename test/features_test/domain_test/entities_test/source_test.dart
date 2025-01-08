@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:news_app/features/domain/entities/A....source.dart';
+import 'package:news_app/features/domain/entities/source.dart';
 
 void main() {
   test("test for source", () {

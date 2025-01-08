@@ -3,7 +3,7 @@ import 'package:news_app/core/mediators/either.dart';
 import 'package:news_app/features/domain/entities/article.dart';
 import 'package:news_app/features/domain/entities/article_list.dart';
 import 'package:news_app/features/domain/entities/search.dart';
-import 'package:news_app/features/domain/entities/A....source.dart';
+import 'package:news_app/features/domain/entities/source.dart';
 
 void main() {
   group("", () {
